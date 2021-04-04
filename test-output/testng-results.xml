@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="turtlemintAssignment" duration-ms="55812" started-at="2021-04-04T19:59:42Z" finished-at="2021-04-04T20:00:38Z">
+  <suite name="turtlemintAssignment" duration-ms="83112" started-at="2021-04-04T20:17:09Z" finished-at="2021-04-04T20:18:32Z">
     <groups>
     </groups>
-    <test name="Problem1" duration-ms="39438" started-at="2021-04-04T19:59:42Z" finished-at="2021-04-04T20:00:22Z">
+    <test name="Problem1" duration-ms="57329" started-at="2021-04-04T20:17:09Z" finished-at="2021-04-04T20:18:06Z">
       <class name="com.turtlemint.testCases.Problem_1">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="setup" is-config="true" duration-ms="8172" started-at="2021-04-05T01:29:42Z" finished-at="2021-04-05T01:29:50Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="setup" is-config="true" duration-ms="12950" started-at="2021-04-05T01:47:09Z" finished-at="2021-04-05T01:47:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC100_LifeInsuranceTest()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="TC100_LifeInsuranceTest" duration-ms="29168" started-at="2021-04-05T01:29:50Z" finished-at="2021-04-05T01:30:20Z">
+        <test-method status="PASS" signature="TC100_LifeInsuranceTest()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="TC100_LifeInsuranceTest" duration-ms="38644" started-at="2021-04-05T01:47:22Z" finished-at="2021-04-05T01:48:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC100_LifeInsuranceTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="tearDown" is-config="true" duration-ms="2087" started-at="2021-04-05T01:30:20Z" finished-at="2021-04-05T01:30:22Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.turtlemint.testCases.Problem_1@4678c730]" name="tearDown" is-config="true" duration-ms="5713" started-at="2021-04-05T01:48:00Z" finished-at="2021-04-05T01:48:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.turtlemint.testCases.Problem_1 -->
     </test> <!-- Problem1 -->
-    <test name="Problem2" duration-ms="16215" started-at="2021-04-04T20:00:22Z" finished-at="2021-04-04T20:00:38Z">
+    <test name="Problem2" duration-ms="24480" started-at="2021-04-04T20:18:07Z" finished-at="2021-04-04T20:18:32Z">
       <class name="com.turtlemint.testCases.Problem_2">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="setup" is-config="true" duration-ms="2126" started-at="2021-04-05T01:30:22Z" finished-at="2021-04-05T01:30:24Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="setup" is-config="true" duration-ms="4375" started-at="2021-04-05T01:48:07Z" finished-at="2021-04-05T01:48:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TC200_SearchProduct()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="TC200_SearchProduct" duration-ms="13233" started-at="2021-04-05T01:30:24Z" finished-at="2021-04-05T01:30:37Z">
+        <test-method status="PASS" signature="TC200_SearchProduct()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="TC200_SearchProduct" duration-ms="19071" started-at="2021-04-05T01:48:12Z" finished-at="2021-04-05T01:48:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC200_SearchProduct -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="tearDown" is-config="true" duration-ms="850" started-at="2021-04-05T01:30:37Z" finished-at="2021-04-05T01:30:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.turtlemint.testCases.Problem_2@604ed9f0]" name="tearDown" is-config="true" duration-ms="1034" started-at="2021-04-05T01:48:31Z" finished-at="2021-04-05T01:48:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

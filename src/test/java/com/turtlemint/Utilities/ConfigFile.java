@@ -35,7 +35,7 @@ public class ConfigFile {
 		String url=properties.getProperty("flipkartUrl");
 		return url;
 	}
-	
+
 	public String getChromeDriver() {
 
 		String driver=properties.getProperty("chromedriverPath");

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="turtlemintAssignment">
+
+	<test name="Problem1">
+		<classes>
+			<class name="com.turtlemint.testCases.Problem_1" />
+		</classes>
+	</test>
+	<test name="Problem2">
+		<classes>
+			<class name="com.turtlemint.testCases.Problem_2" />
+		</classes>
+	</test>
+
+
+</suite>

@@ -1,0 +1,16 @@
+2021-04-05 01:29:50,890 [main] INFO Turtlemint Assignment Problem - ---------------- Starting Test TC100_LifeInsuranceTest ---------------- 
+2021-04-05 01:29:50,894 [main] INFO Turtlemint Assignment Problem - Open turtlemint URL
+2021-04-05 01:29:57,326 [main] INFO Turtlemint Assignment Problem - Click Life Insurance button
+2021-04-05 01:29:58,782 [main] INFO Turtlemint Assignment Problem - Assert title of the Life Insurance Policies page 
+2021-04-05 01:29:58,801 [main] INFO Turtlemint Assignment Problem - Click Term Life Plan button
+2021-04-05 01:30:00,048 [main] INFO Turtlemint Assignment Problem - Enter details in life profile section 1 & Click Next Button
+2021-04-05 01:30:05,717 [main] INFO Turtlemint Assignment Problem - Enter details in life profile section 2 & Click Next Button
+2021-04-05 01:30:06,161 [main] INFO Turtlemint Assignment Problem - Enter details in life profile section 3 & Click Next Button
+2021-04-05 01:30:08,246 [main] INFO Turtlemint Assignment Problem - Wait for OK, GOT IT! Button to Visible & Clickable then Click
+2021-04-05 01:30:18,898 [main] INFO Turtlemint Assignment Problem - Click on View Details Button
+2021-04-05 01:30:19,500 [main] INFO Turtlemint Assignment Problem - Print URL of the Insurer page
+2021-04-05 01:30:24,428 [main] INFO Turtlemint Assignment Problem - ---------------- Starting Test TC200_SearchProduct ---------------- 
+2021-04-05 01:30:24,429 [main] INFO Turtlemint Assignment Problem - Open Flipkart URL
+2021-04-05 01:30:34,266 [main] INFO Turtlemint Assignment Problem - Close Login Form
+2021-04-05 01:30:34,554 [main] INFO Turtlemint Assignment Problem - Enter the search text & click enter/submit
+2021-04-05 01:30:34,853 [main] INFO Turtlemint Assignment Problem - Print All Items & All Respective URLS
